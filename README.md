@@ -1,5 +1,5 @@
-# Hospitality-Revenue-Analysis-Challenge-by-CodeBasics
-### By- Akash Mane @ Aspiring Data Analyst
+# Hospitality_Revenue_Analysis (Power BI)
+### By- Akash Mane @ Data Analyst
 
 ### Live intreactive Project at [Novypro](https://www.novypro.com/project/hospitality-dashboard-power-bi-1) 
 ***
